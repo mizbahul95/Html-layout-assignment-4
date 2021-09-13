@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    overflow: hidden;
+    text-align: center;
+}
+.logo{
+    width: 100%;
+    height: 60px;
+    background-color: black;
+    color: blanchedalmond;
+}
+nav{
+    background-color: coral;
+    height: 120px;
+    width: 100%;
+    }
+.center{
+    overflow: hidden;
+}
+.center_one{
+    width: 25%;
+    height: 120px;
+    background-color: darkgreen;
+    float: left;
+    text-align: center;
+    color: whitesmoke;
+}
+.center_two{
+    width: 25%;
+    height: 120px;
+   background-color:darkslateblue;
+    float: left;
+    text-align: center;
+    color: whitesmoke;
+}
+
+.center_three{
+    width: 25%;
+    height: 120px;
+    float: left;
+    background-color: darkslategray;
+    text-align: center;
+    color: whitesmoke;
+}
+   
+
+.center_four{
+    width: 25%;
+    height: 120px;
+   background-color: firebrick;
+    float: left;
+    text-align: center;
+    color: whitesmoke;
+}
+.client{
+    overflow: hidden;
+}
+.client_one{
+    background-color: indianred;
+    height: 500px;
+    width: 60%;
+    float: left;
+    text-align: center;
+    color: whitesmoke;
+}
+    
+.client_two{
+    height: 500px;
+    width: 40%;
+    background-color: slategray;
+    float: right;
+    text-align: center;
+    color: whitesmoke;
+}
+    
+
+.top{
+    height: 30%;
+    background-color: teal;
+    text-align: center;
+    color: whitesmoke;
+}
+    
+
+
+.bottom{
+    height: 70%;
+    background-color: tomatos;
+    text-align: center;
+    color: whitesmoke;
+
+  }
+
+.footer{
+    background-color: plum;
+    text-align: center;
+    width: 100%;
+    height: 60px;
+}
